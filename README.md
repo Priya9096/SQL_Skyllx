@@ -1,21 +1,13 @@
 # SQL_Skyllx
 
-| S.No | Day   | Topic Name                 | Video Link                                                                 | Notes Link             |
-|------|-------|----------------------------|----------------------------------------------------------------------------|------------------------|
-| 1    | Day 01| Data,Types of Data, Database,Types of Database, DBMS, Type of DBMS  | [Watch Video](https://youtu.be/D9UvdFzixGA?si=hQb_j2INavsS5NSA)            | [View Notes](https://docs.google.com/document/d/1n09IrUBc6ATmU7ohJLxGV5VdBUFdMaPsbLvHHPUs0cY/edit?tab=t.0)        |
-| 2    | Day 02| Create Tables in SQL           | [Watch Video](https://youtu.be/YKMh7HYcnzg?si=FuPSmke3kukiRrZd)                                                           | [View Notes](#)        |
-| 3    | Day 03| MySQL Data Types and Case Sensitivity           | [Watch Video](https://youtu.be/UPAL9D2f4UM?si=xVaAun-n_mN87iqr)                                                           | [View Notes](#)        |
-
-| 4    | Day 04| Selection Vs Projection Query in SQL           | [Watch Video](https://youtu.be/_JbCbzR7KtE?si=rqqDbIOkdQnsAgSt)                                                           | [View Notes](#)        |
-
-| 5    | Day 05| Constraints in SQL- Part 1           | [Watch Video](https://youtu.be/1D38t0sNr1o?si=fURNlmoAikubcbBU)                                                           | [View Notes](#)        |
-
-| 6    | Day 06| Constraints in SQL- Part 2           | [Watch Video](https://youtu.be/FoEr_jQtPXo?si=H3yTrBeUZlgMV6R6)                                                           | [View Notes](#)        |
-
-| 7    | Day 07| Constraints in SQL- Part 3           | [Watch Video](https://youtu.be/FdNMe8-gYn0?si=AmHgOYdMh6gNQgco)                                                           | [View Notes](#)        |
-
-| 8    | Day 08|Master SQL Aliasing          | [Watch Video](https://youtu.be/_3MBMi0dZNw?si=kuI3D5Q578nRIp-R)                                                           | [View Notes](#)        |
-
-| 9    | Day 09|SQL Operators Part 1          | [Watch Video](https://youtu.be/Ae00jcEpZfw?si=ZMNydNAerYaSv6Ub)                                                           | [View Notes](#)        |
-
-
+| S.No | Day     | Topic Name                                        | Video Link                                                                 | Notes Link                                                                 |
+|------|---------|---------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1    | Day 01  | Data, Types of Data, Database, Types of Database, DBMS, Type of DBMS | [Watch Video](https://youtu.be/D9UvdFzixGA?si=hQb_j2INavsS5NSA)            | [View Notes](https://docs.google.com/document/d/1n09IrUBc6ATmU7ohJLxGV5VdBUFdMaPsbLvHHPUs0cY/edit?tab=t.0) |
+| 2    | Day 02  | Create Tables in SQL                              | [Watch Video](https://youtu.be/YKMh7HYcnzg?si=FuPSmke3kukiRrZd)            | [View Notes](#)                                                             |
+| 3    | Day 03  | MySQL Data Types and Case Sensitivity             | [Watch Video](https://youtu.be/UPAL9D2f4UM?si=xVaAun-n_mN87iqr)            | [View Notes](#)                                                             |
+| 4    | Day 04  | Selection Vs Projection Query in SQL              | [Watch Video](https://youtu.be/_JbCbzR7KtE?si=rqqDbIOkdQnsAgSt)            | [View Notes](#)                                                             |
+| 5    | Day 05  | Constraints in SQL - Part 1                       | [Watch Video](https://youtu.be/1D38t0sNr1o?si=fURNlmoAikubcbBU)            | [View Notes](#)                                                             |
+| 6    | Day 06  | Constraints in SQL - Part 2                       | [Watch Video](https://youtu.be/FoEr_jQtPXo?si=H3yTrBeUZlgMV6R6)            | [View Notes](#)                                                             |
+| 7    | Day 07  | Constraints in SQL - Part 3                       | [Watch Video](https://youtu.be/FdNMe8-gYn0?si=AmHgOYdMh6gNQgco)            | [View Notes](#)                                                             |
+| 8    | Day 08  | Master SQL Aliasing                               | [Watch Video](https://youtu.be/_3MBMi0dZNw?si=kuI3D5Q578nRIp-R)            | [View Notes](#)                                                             |
+| 9    | Day 09  | SQL Operators Part 1                              | [Watch Video](https://youtu.be/Ae00jcEpZfw?si=ZMNydNAerYaSv6Ub)            | [View Notes](#)                                                             |
