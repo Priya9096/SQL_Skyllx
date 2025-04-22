@@ -10,7 +10,7 @@ A database is an organized collection of data that can be easily accessed, manag
 
 ✅ Relational Database
 Definition:
-A relational database stores data in tables (rows and columns), and the data is related to each other using keys.
+A relational database stores data in tables (rows and columns).
 🔹 Example: MySQL, PostgreSQL, Oracle.
 
 ✅ Non-Relational Database (NoSQL Database)
@@ -21,7 +21,7 @@ A non-relational database stores data in formats other than tables such as JSON,
 ✅ DBMS (Database Management System)
 Definition:
 DBMS is software that is used to create, store, manage, and retrieve data from a database.
-🔹 Example: MS Access, FileMaker.
+🔹 Examples: RDBMS, NoSQL
 
 ✅ RDBMS (Relational Database Management System)
 Definition:
