@@ -34,3 +34,39 @@ NoSQL refers to a type of database that provides a mechanism for storage and ret
 🔹 Example: MongoDB stores data as documents (like JSON).
 
 
+
+✅ Interview Questions and Answers
+1. Q: What is data?
+A: Data is just raw facts or information. It can be numbers, words, or anything we store. Example: names of students, their marks, etc.
+
+2. Q: What is a database?
+A: A database is a place where we store data in an organized way, so we can find and use it easily.
+
+3. Q: What is the difference between data and database?
+A:Data is raw information and Database is where we store that information properly.
+
+4. Q: What is DBMS?
+A: DBMS (Database Management System) is software that helps us to create, save, change, and search data in a database.
+
+5. Q: What is RDBMS?
+A: RDBMS (Relational Database Management System) is a type of DBMS where data is stored in tables with rows and columns. We can relate data using keys.
+
+6. Q: Give examples of RDBMS.
+A: MySQL, Oracle, SQL Server, PostgreSQL.
+
+7. Q: What is the difference between DBMS and RDBMS?
+A: DBMS stores data but not always in tables and RDBMS stores data only in tables and uses relationships between them.
+
+8. Q: What is a relational database?
+A: A relational database is one that stores data in tables and allows us to relate the data using keys.
+
+9. Q: What is NoSQL?
+A: NoSQL is a type of database that doesn’t use tables. It stores data in other formats like documents, key-value, graphs, etc. It is used for large and flexible data.
+
+10. Q: Give examples of NoSQL databases.
+A: MongoDB, Cassandra, Redis.
+
+11. Q: What is the difference between SQL and NoSQL?
+A: SQL is used in relational databases (tables) and NoSQL is used in non-relational databases (like documents or key-value pairs).
+
+
