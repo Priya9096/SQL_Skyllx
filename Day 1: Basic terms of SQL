@@ -30,7 +30,8 @@ RDBMS is a type of DBMS that stores data in relational format (tables with rows 
 
 ✅ NoSQL
 Definition:
-NoSQL refers to a type of database that provides a mechanism for storage and retrieval of data in a non-tabular form. It is used for handling large amounts of unstructured or semi-structured data.
+NoSQL refers to a type of database that provides a mechanism for storage and retrieval of data in a non-tabular form. 
+It is used for handling large amounts of unstructured or semi-structured data.
 🔹 Example: MongoDB stores data as documents (like JSON).
 
 
