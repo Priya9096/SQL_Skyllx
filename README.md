@@ -13,3 +13,7 @@
 | 9    | Day 09  | SQL Operators Part 1                              | [Watch Video](https://youtu.be/Ae00jcEpZfw?si=ZMNydNAerYaSv6Ub)            | [View Notes](https://docs.google.com/document/d/1cynPJK2MFEJBpEGqojkEfz0PvKqqBNtnDsw17Io9a2o/edit?tab=t.0) |
 | 10   | Day 10  | Arithmetic & Relational Operators in SQL          | [Watch Video](https://youtu.be/dDgCh6wpl_c?si=vwQFAOk5irEZUCiB)                                     | [View Notes](https://docs.google.com/document/d/1cynPJK2MFEJBpEGqojkEfz0PvKqqBNtnDsw17Io9a2o/edit?tab=t.0) |
 | 11   | Day 11  | SQL AND, NOT, IN Operators with Practice          | [Watch Video](https://youtu.be/ot_V4qKBtr0?si=Vc_ojoeA_Jm4EiUH)                                     | [View Notes](https://docs.google.com/document/d/17OeF0YkwA9i8VDwCYQZd0_WUpHR2ZtPZzddfnClGqg4/edit?tab=t.0) |
+| 12   | Day 12  | Between Operator with Practice          | [Watch Video](https://youtu.be/DbYxJO_KEB4?si=1uRgzmJMCpHMKHgI)                                     | [View Notes](https://docs.google.com/document/d/1EpmWwwWgq4FMS_NMgFTRbDRgXwxj6IDqBU1ZxUfxABE/edit?usp=sharing) |
+
+
+
