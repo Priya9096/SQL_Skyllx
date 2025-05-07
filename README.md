@@ -1,8 +1,11 @@
 # Master SQL: Complete SQL Guide
 
+
 | S.No | Day     | Topic Name                                        | Video Link                                                                 | Interview Practice and Notes Link                                                                 |
 |------|---------|---------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1    | Day 01  | Data, Types of Data, Database, Types of Database, DBMS, Type of DBMS | [Watch Video](https://youtu.be/D9UvdFzixGA?si=hQb_j2INavsS5NSA)            | [View Notes](https://docs.google.com/document/d/1n09IrUBc6ATmU7ohJLxGV5VdBUFdMaPsbLvHHPUs0cY/edit?tab=t.0) |
+| 2    | Installation  | MySQL Installation  | [Watch Video](https://youtu.be/QBv-3PYOBVo?si=QbVKgbHEtMh8AtWQ)            | [View Notes]() |
+
 | 2    | Day 02  | Create Tables in SQL                              | [Watch Video](https://youtu.be/YKMh7HYcnzg?si=FuPSmke3kukiRrZd)            | [View Notes](https://docs.google.com/document/d/1gYoIJh3UF9TVPthCgHxYzqrE_ZLnQqBmCdAvIa_3KsM/edit?tab=t.0) |
 | 3    | Day 03  | MySQL Data Types and Case Sensitivity             | [Watch Video](https://youtu.be/UPAL9D2f4UM?si=xVaAun-n_mN87iqr)            | [View Notes](https://docs.google.com/document/d/1SW8cS9JUfkdX0R6HTGue22uyTeoDwP5gTkt-MBQCt4U/edit?tab=t.0) |
 | 4    | Day 04  | Selection Vs Projection Query in SQL              | [Watch Video](https://youtu.be/_JbCbzR7KtE?si=rqqDbIOkdQnsAgSt)            | [View Notes](https://docs.google.com/document/d/111yv7PTGPTiBVOEmEXEhi1Z2stVezABJB3Kg7NP2A5s/edit?tab=t.0#heading=h.edhgrk7l19g2) |
@@ -22,3 +25,9 @@
 | 18   | Day 18  | TCL Explained    | [Watch Video](https://youtu.be/vRfbODPmsDM?si=lD178rKH-pXUsb0M)            | [View Notes](https://docs.google.com/document/d/1SuHQQOCFY3Trul9pyq8Eq5-6hJrrDgksqV-aorNQ4-I/edit?usp=sharing) |
 | 19   | Day 19  | DCL Explained    | [Watch Video](https://youtu.be/OKoMtHUhiQY?si=L2vXXJMg8paitcPq)            | [View Notes](https://docs.google.com/document/d/1SuHQQOCFY3Trul9pyq8Eq5-6hJrrDgksqV-aorNQ4-I/edit?usp=sharing) |
 | 20   | Day 20  | Difference Between Delete, Drop and Truncate    | [Watch Video](https://youtu.be/GIym3FqXbYY?si=n6y2aFusk7xSznj4)            | [View Notes](https://docs.google.com/document/d/1AZX1A1oGha2TMSAUbLJ_fsGtJlXbpOwOGGPtnudf0aw/edit?usp=sharing) |
+| 21   | Day 21  | Never-Miss SQL Concept: String Functions in MySQL    | [Watch Video](https://youtu.be/alWJlQvSFMk?si=c-l6-7DaIb41CZsX)            | [View Notes](https://docs.google.com/document/d/1fB2kmn47A87gcaLv6FZedT3jFhbD9v6coCvz5hPaRm4/edit?usp=sharing) |
+| 22   | Day 22  |  Never-Miss SQL Concept: Number Functions in MySQL  | [Watch Video](https://youtu.be/YbrG43lbinw?si=Q4munz4olWirt1hZ)            | [View Notes](https://docs.google.com/document/d/1eRBDy9805KHiZZHYMZdO7PqUEqQIOS-ciRKulReuDQM/edit?usp=sharing) |
+| 23   | Day 23  |  Never-Miss SQL Concept:Date and Time Functions in MySQL  | [Watch Video](https://youtu.be/8XHhYJ3AIeY?si=wjWPFh3wfpvmG5aa)            | [View Notes](https://docs.google.com/document/d/18yUSqEVi2pS9vI6IwLlvpSTc3A3PdsLT7A0HJ_AUx7Q/edit?usp=sharing) |
+
+
+
