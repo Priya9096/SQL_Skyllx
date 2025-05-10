@@ -26,6 +26,8 @@
 | 21   | Day 21  | Never-Miss SQL Concept: String Functions in MySQL    | [Watch Video](https://youtu.be/alWJlQvSFMk?si=c-l6-7DaIb41CZsX)            | [View Notes](https://docs.google.com/document/d/1fB2kmn47A87gcaLv6FZedT3jFhbD9v6coCvz5hPaRm4/edit?usp=sharing) |
 | 22   | Day 22  |  Never-Miss SQL Concept: Number Functions in MySQL  | [Watch Video](https://youtu.be/YbrG43lbinw?si=Q4munz4olWirt1hZ)            | [View Notes](https://docs.google.com/document/d/1eRBDy9805KHiZZHYMZdO7PqUEqQIOS-ciRKulReuDQM/edit?usp=sharing) |
 | 23   | Day 23  |  Never-Miss SQL Concept:Date and Time Functions in MySQL  | [Watch Video](https://youtu.be/8XHhYJ3AIeY?si=wjWPFh3wfpvmG5aa)            | [View Notes](https://docs.google.com/document/d/18yUSqEVi2pS9vI6IwLlvpSTc3A3PdsLT7A0HJ_AUx7Q/edit?usp=sharing) |
+| 24   | Day 24  |  Never-Miss SQL Concept:Control Flow Functions in MySQL  | [Watch Video](https://youtu.be/Mka8pY9IScg?si=-VGJoQhUH-rdJnDX)            | [View Notes](https://docs.google.com/document/d/1OAeur2uNUr3wo8jbYSCbqm1pj6r2VmAUq2exICFRhFs/edit?usp=sharing) |
+
 
 | MySQL Installation  | [Watch Video](https://youtu.be/QBv-3PYOBVo?si=QbVKgbHEtMh8AtWQ)      
 
